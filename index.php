@@ -11,6 +11,7 @@
 <body>
     <?php require('./views/partials/nav.html') ?>
     <?php require('./views/partials/main.html') ?>
+    <?php require('./views/partials/footer.html') ?>
 </body>
 
 </html>
